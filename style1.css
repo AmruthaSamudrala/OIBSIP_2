@@ -1,0 +1,96 @@
+.webpage{
+    font-family:  sans-serif;
+    color: white;
+    font-size:15px ;
+}
+.navbar{
+    background-color:blanchedalmond;
+    font-size: 25px;
+    color: white !important;
+}
+.photo1{
+    height: 500px;
+}
+.about{
+    font-size: 20px;
+    color:black;
+    text-align: center;
+}
+.education{
+    font-size: 20px;
+    font-style: oblique;
+    color:black;
+}
+.projects{
+    font-size:20px;
+    color: black;
+
+}
+.movies{
+    font-size: 20px;
+    color:black;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}.webpage{
+    font-family:  sans-serif;
+    color: white;
+    font-size:15px ;
+}
+.navbar{
+    background-color:blanchedalmond;
+    font-size: 25px;
+    color: white !important;
+}
+.photo1{
+    height: 500px;
+}
+.about{
+    font-size: 20px;
+    color:black;
+    text-align: center;
+}
+.education{
+    font-size: 20px;
+    font-style: oblique;
+    color:black;
+}
+.projects{
+    font-size:20px;
+    color: black;
+
+}
+.movies{
+    font-size: 20px;
+    color:black;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+.salaarimg{
+    height: 200px;
+    padding: 20px;
+}
+.movie-box{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    margin: 5px;
+    transition: transform .5s , box-shadow .5s;
+    
+}
+.movie-box:hover{
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.movie-box-1{
+    background-image: url("https://res.cloudinary.com/dbtkas8kr/image/upload/v1689154246/EVctylFVAAAbT_d_j9tmip.jpg");
+}
+.movie-box-2{
+    background-image: url("https://res.cloudinary.com/dbtkas8kr/image/upload/v1689155316/ExikocGXMAEb8x6_lvujrv.jpg");
+}
